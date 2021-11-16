@@ -1,0 +1,19 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "full stack developer companio assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qz-C/node-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qz-C/node-assessment/issues"
+  },
+  "homepage": "https://github.com/Qz-C/node-assessment#readme"
+}
