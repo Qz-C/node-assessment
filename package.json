@@ -4,7 +4,8 @@
   "description": "full stack developer companio assessment",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest",
+    "dev": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Qz-C/node-assessment/issues"
   },
-  "homepage": "https://github.com/Qz-C/node-assessment#readme"
+  "homepage": "https://github.com/Qz-C/node-assessment#readme",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "jest-extended": "^1.1.0"
+  }
 }
