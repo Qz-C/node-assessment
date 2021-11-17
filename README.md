@@ -5,7 +5,7 @@
 1. Simplicity
     - Plain Javascript
     -  Third-party libraries' usage was avoided
-    - Test and execution were implemented based on the provided input [player.js](/src/__test__/__data__/player.js)
+    - Test and execution were implemented based on the provided input [player.js](https://github.com/Qz-C/node-assessment/blob/main/src/__test__/__data__/players.json)
     
 2. Performance 
     - Data structures and algorithms were selected based on the time and space complexity
@@ -22,11 +22,13 @@
    git clone https://github.com/Qz-C/node-assessment
    ```
 2. Install dependencies
-* npm
+* *npm*
+
    ```sh
     npm install
    ```
-* yarn
+* *yarn*
+
    ```sh
     yarn install
    ```
@@ -34,20 +36,24 @@
 ### Usage
 
 1. Test
-* npm
+* *npm*
+
    ```sh
     npm run test
    ```
-* yarn
+* *yarn*
+
    ```sh
     yarn test
    ```
 2.Execute
-* npm
+* *npm*
+
    ```sh
     npm run dev
    ```
-* yarn
+* *yarn*
+
    ```sh
     yarn dev
    ```
